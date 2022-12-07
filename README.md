@@ -6,4 +6,4 @@ ___
 ## language: ✰ python ✰
 • working on problems daily (or whenever I have time...)
 
-• might try to resolve some in other languages too 🤷‍♀️
+• might try to re-solve some in other languages too 🤷‍♀️
